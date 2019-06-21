@@ -1,6 +1,13 @@
 #!/usr/bin/python
 
-def hello():
+# auth: wu
+# date: 2019/06/21
+
+def say():
+	print("hello")
+
+
+def hello:
 	print("hello world!")
 
 
