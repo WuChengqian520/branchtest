@@ -2,7 +2,12 @@
 
 
 #author: wu
+#change: wu
+#
 
+
+def error():
+	pass
 
 def input_something:
 	name = input("Please input your name:")
