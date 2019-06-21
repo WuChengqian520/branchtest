@@ -1,5 +1,9 @@
 #!/user/bin/python
 
+
+#author: wu
+
+
 def input_something:
 	name = input("Please input your name:")
 	print(name)
